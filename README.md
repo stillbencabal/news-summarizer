@@ -1,2 +1,2 @@
 # news-summarizer
-Simple Summarize of Current News
+Simple Summarizer of Current News
